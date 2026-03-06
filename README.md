@@ -1,6 +1,6 @@
 # Gmail Auto-Reply Bot (GCP)
 
-A HIPAA-compliant, serverless Gmail auto-reply bot deployed on Google Cloud Platform. It monitors a Gmail inbox for incoming website lead inquiries and sends personalized acknowledgment replies automatically.
+A HIPAA-compliant, serverless Gmail auto-reply bot deployed on Google Cloud Platform. It monitors a Gmail inbox for incoming website lead inquiries and sends acknowledgment replies automatically.
 
 ## Features
 
